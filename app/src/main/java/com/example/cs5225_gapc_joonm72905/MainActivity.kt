@@ -13,7 +13,7 @@ import com.example.cs5225_gapc_joonm72905.ui.theme.CS5225_GAPC_JOONM72905Theme
 import com.google.firebase.FirebaseApp
 import dagger.hilt.android.AndroidEntryPoint
 import dagger.hilt.android.HiltAndroidApp
-///
+
 @Suppress("DEPRECATION")
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
