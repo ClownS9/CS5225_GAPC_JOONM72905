@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288259047011",
+    "project_id": "gapc-610de",
+    "storage_bucket": "gapc-610de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288259047011:android:6b1b98b273a0a87d45c256",
+        "android_client_info": {
+          "package_name": "com.example.cs5225_gapc_joonm72905"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKKu1CY6Q79Bk0oabZsTY0Wmi298fTrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288259047011:android:12bab45d5663496845c256",
+        "android_client_info": {
+          "package_name": "com.example.gapc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKKu1CY6Q79Bk0oabZsTY0Wmi298fTrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
